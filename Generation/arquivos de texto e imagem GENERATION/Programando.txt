@@ -1,0 +1,50 @@
+Conceitos da programação 
+
+
+Tipos de dados Básicos:
+Inteiros - números positivos, negativos incluindo o 0 (zero), por exemplo: Idade
+Real - Números fracionados, por exemplo: altura de fulano é 1,90m. OBS: Real aceita também números inteiros.
+Caractere - Letras, pode ser UMA ÚNICA letra, como pode ser uma sequência de letras. 
+Lógico - Só podem representar dois valores: verdadeiro ou falso, sim ou não, positivo ou negativo. São conhecidos também como dados booleanos. 
+Cadeia = Letras em quantidade 
+
+Variável - Vai armazenar os dados em em caráter TEMPORÁRIO e DINÂMICO porque a todo momento pode ser acessada e modificada.  
+Constante - São dados ESTÁTICOS que podem ser acessados a qualquer momento, mas não podem ser alterados. 
+
+OBS: A variável e a constante sempre vem acompanhada com o TIPO de dado.
+
+
+\n = Pular uma linha (barra deitada pra esquerda)
+Escreva ("") = Vai ser mostrado o que estiver dentro das aspas duplas. 
+Leia () = É preciso ler. Obrigatoriamente. 
+
+res= num1 + num2 
+
++ soma
+- menos
+* multiplicação
+/ divisão
+
+= igual
+> maior que 
+< menor que
+! igual
+
+Laço condicional: É quando se testa uma condição pra ver se é real ou não. 
+Condição 1: se (so trabalha com condição)
+Condição 2: senao
+
+Escolha
+
+
+juliop3p
+
+
+Trabalho:
+https://docs.google.com/document/d/1FoFI0-y9dBvC6G9KXxY6qaBy2h-YcGA7zPKP2ws-PJA/edit?usp=sharing
+
+TIPO VETOR
+Vetor é uma variável composta
+É possível armanezar varios valores dentro de um único vetor.
+
+
